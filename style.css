@@ -14,7 +14,7 @@ html {
 body {
   font-family: "Press Start 2P", sans-serif;
   color: #eee;
-  background-color: #222;
+  background-color: #9e2994;
   /* background-color: #60b347; */
 }
 
@@ -34,7 +34,7 @@ main {
 }
 
 .left {
-  width: 52rem;
+  width: 5rem;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -54,6 +54,7 @@ h1 {
   top: 52%;
   left: 50%;
   transform: translate(-50%, -50%);
+  padding-bottom: 1rem;
 }
 
 .number {
